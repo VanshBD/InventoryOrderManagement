@@ -2,16 +2,6 @@
  
 An Inventory Management System built with React.js for the frontend, and Node.js, Express, and MongoDB for the backend.
 
-
-## Admin Credentials for Live admin App
-- *phone*: 9998911656
-- *Password*: Admin@123
-
-## distributer Credentials for Live admin App
-- *phone*: 8160708090
-- *Password*: paras@123
-
-
 ## Table of Contents
 
 - [Features](#features)
